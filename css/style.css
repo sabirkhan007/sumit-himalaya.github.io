@@ -9494,10 +9494,11 @@ h6,
 }
 
 .back-to-top {
+  border-radius: 17px;
   position: fixed;
   display: none;
-  right: 45px;
-  bottom: 45px;
+  right: 25px;
+  bottom: 55px;
   z-index: 11;
 }
 
@@ -9880,12 +9881,12 @@ h6,
 
 
 .footer-share-kmy {
-  background:#fff;
+  background:#fff0;
   position:fixed;
   left:0;
   width:100%;
   z-index:999;
-  box-shadow:0 -4px 10px rgba(0, 0, 0, .2);
+  /* box-shadow:0 -4px 10px rgba(0, 0, 0, .2); */
   bottom:0
   }
   .footer-share-button a.query-form {
@@ -9943,4 +9944,3 @@ h6,
   display:none
   }
   }
-  
