@@ -9563,11 +9563,11 @@ h6,
   }
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .about-text {
     margin-left: -120px;
   }
-}
+} */
 
 .page-header {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/carousel-2.jpg), no-repeat center center;
@@ -9901,8 +9901,7 @@ h6,
   line-height:28px;
   font-weight:700;
   margin:2% 0 2% 2%;
-  col
-or:#2c3848;
+  color:#2c3848;
   border-radius:3px
   }
   .footer-share-button a.whatsapp {
